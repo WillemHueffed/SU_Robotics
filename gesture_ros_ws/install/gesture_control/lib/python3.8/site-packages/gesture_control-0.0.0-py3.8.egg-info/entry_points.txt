@@ -1,0 +1,4 @@
+[console_scripts]
+classifier = gesture_control.classifier:main
+test = gesture_control.test:main
+

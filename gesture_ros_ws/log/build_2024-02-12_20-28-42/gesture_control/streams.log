@@ -1,0 +1,21 @@
+[1.097s] Invoking command in '/home/locobot/ros_ws/src/gesture_control': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed
+[1.300s] running egg_info
+[1.301s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.301s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.301s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.301s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.301s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.330s] reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.331s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.331s] running build
+[1.331s] running build_py
+[1.331s] running install
+[1.332s] running install_lib
+[1.333s] running install_data
+[1.333s] running install_egg_info
+[1.334s] removing '/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control-0.0.0-py3.8.egg-info' (and everything under it)
+[1.334s] Copying ../../build/gesture_control/gesture_control.egg-info to /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control-0.0.0-py3.8.egg-info
+[1.335s] running install_scripts
+[1.349s] Installing test script to /home/locobot/ros_ws/install/gesture_control/lib/gestureControl
+[1.349s] writing list of installed files to '/home/locobot/ros_ws/build/gesture_control/install.log'
+[1.365s] Invoked command in '/home/locobot/ros_ws/src/gesture_control' returned '0': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed

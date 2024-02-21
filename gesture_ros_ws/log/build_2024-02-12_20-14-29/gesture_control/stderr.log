@@ -1,0 +1,5 @@
+  File "/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/mediaPipeNode.py", line 17
+    def main(args=None):
+    ^
+SyntaxError: invalid syntax
+

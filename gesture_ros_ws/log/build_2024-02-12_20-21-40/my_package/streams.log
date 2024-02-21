@@ -1,0 +1,21 @@
+[1.551s] Invoking command in '/home/locobot/ros_ws/src/my_package': PYTHONPATH=/home/locobot/ros_ws/build/my_package/prefix_override:/home/locobot/ros_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/locobot/ros_ws/build/my_package/build install --record /home/locobot/ros_ws/build/my_package/install.log --single-version-externally-managed
+[1.764s] running egg_info
+[1.764s] writing ../../build/my_package/my_package.egg-info/PKG-INFO
+[1.765s] writing dependency_links to ../../build/my_package/my_package.egg-info/dependency_links.txt
+[1.765s] writing entry points to ../../build/my_package/my_package.egg-info/entry_points.txt
+[1.765s] writing requirements to ../../build/my_package/my_package.egg-info/requires.txt
+[1.765s] writing top-level names to ../../build/my_package/my_package.egg-info/top_level.txt
+[1.794s] reading manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.795s] writing manifest file '../../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.795s] running build
+[1.795s] running build_py
+[1.795s] running install
+[1.796s] running install_lib
+[1.797s] running install_data
+[1.797s] running install_egg_info
+[1.799s] removing '/home/locobot/ros_ws/install/my_package/lib/python3.8/site-packages/my_package-0.0.0-py3.8.egg-info' (and everything under it)
+[1.799s] Copying ../../build/my_package/my_package.egg-info to /home/locobot/ros_ws/install/my_package/lib/python3.8/site-packages/my_package-0.0.0-py3.8.egg-info
+[1.800s] running install_scripts
+[1.814s] Installing my_node script to /home/locobot/ros_ws/install/my_package/lib/my_package
+[1.814s] writing list of installed files to '/home/locobot/ros_ws/build/my_package/install.log'
+[1.834s] Invoked command in '/home/locobot/ros_ws/src/my_package' returned '0': PYTHONPATH=/home/locobot/ros_ws/build/my_package/prefix_override:/home/locobot/ros_ws/install/my_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/my_package build --build-base /home/locobot/ros_ws/build/my_package/build install --record /home/locobot/ros_ws/build/my_package/install.log --single-version-externally-managed

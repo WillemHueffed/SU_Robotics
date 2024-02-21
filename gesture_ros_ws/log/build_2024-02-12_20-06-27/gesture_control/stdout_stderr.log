@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/locobot/ros_ws/build/gesture_control/build
+creating /home/locobot/ros_ws/build/gesture_control/build/lib
+creating /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+copying gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+copying gesture_control/__init__.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+running install
+running install_lib
+creating /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/__init__.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/mediaPipeNode.py to mediaPipeNode.cpython-38.pyc
+byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/locobot/ros_ws/install/gesture_control/share/ament_index
+creating /home/locobot/ros_ws/install/gesture_control/share/ament_index/resource_index
+creating /home/locobot/ros_ws/install/gesture_control/share/ament_index/resource_index/packages
+error: can't copy 'resource/gesture_control': doesn't exist or not a regular file

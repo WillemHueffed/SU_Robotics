@@ -1,0 +1,35 @@
+[1.650s] Invoking command in '/home/locobot/ros_ws/src/gesture_control': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed
+[1.851s] running egg_info
+[1.852s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.852s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.852s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.852s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.853s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.882s] reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.882s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.882s] running build
+[1.883s] running build_py
+[1.883s] copying gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.883s] copying gesture_control/__init__.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.883s] copying gesture_control/gesture_recognizer.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.883s] running install
+[1.884s] running install_lib
+[1.884s] copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.884s] copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/__init__.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.884s] copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/gesture_recognizer.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.885s] byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/mediaPipeNode.py to mediaPipeNode.cpython-38.pyc
+[1.886s]   File "/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/mediaPipeNode.py", line 17
+[1.886s]     def main(args=None):
+[1.886s]     ^
+[1.886s] SyntaxError: invalid syntax
+[1.886s] 
+[1.886s] byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/__init__.py to __init__.cpython-38.pyc
+[1.886s] byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/gesture_recognizer.py to gesture_recognizer.cpython-38.pyc
+[1.886s] running install_data
+[1.887s] running install_egg_info
+[1.888s] removing '/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control-0.0.0-py3.8.egg-info' (and everything under it)
+[1.888s] Copying ../../build/gesture_control/gesture_control.egg-info to /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control-0.0.0-py3.8.egg-info
+[1.889s] running install_scripts
+[1.903s] Installing mediaPipeNode script to /home/locobot/ros_ws/install/gesture_control/lib/gestureControl
+[1.904s] writing list of installed files to '/home/locobot/ros_ws/build/gesture_control/install.log'
+[2.046s] Invoked command in '/home/locobot/ros_ws/src/gesture_control' returned '0': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed

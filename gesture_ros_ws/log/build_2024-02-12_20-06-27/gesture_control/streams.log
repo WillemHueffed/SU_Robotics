@@ -1,0 +1,29 @@
+[1.660s] Invoking command in '/home/locobot/ros_ws/src/gesture_control': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed
+[1.862s] running egg_info
+[1.862s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.862s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.862s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.863s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.863s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.891s] reading manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.892s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.892s] running build
+[1.892s] running build_py
+[1.892s] creating /home/locobot/ros_ws/build/gesture_control/build
+[1.892s] creating /home/locobot/ros_ws/build/gesture_control/build/lib
+[1.892s] creating /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.893s] copying gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.893s] copying gesture_control/__init__.py -> /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control
+[1.893s] running install
+[1.893s] running install_lib
+[1.894s] creating /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.894s] copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/mediaPipeNode.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.894s] copying /home/locobot/ros_ws/build/gesture_control/build/lib/gesture_control/__init__.py -> /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control
+[1.894s] byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/mediaPipeNode.py to mediaPipeNode.cpython-38.pyc
+[1.895s] byte-compiling /home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages/gesture_control/__init__.py to __init__.cpython-38.pyc
+[1.896s] running install_data
+[1.896s] creating /home/locobot/ros_ws/install/gesture_control/share/ament_index
+[1.896s] creating /home/locobot/ros_ws/install/gesture_control/share/ament_index/resource_index
+[1.896s] creating /home/locobot/ros_ws/install/gesture_control/share/ament_index/resource_index/packages
+[1.896s] error: can't copy 'resource/gesture_control': doesn't exist or not a regular file
+[1.910s] Invoked command in '/home/locobot/ros_ws/src/gesture_control' returned '1': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed

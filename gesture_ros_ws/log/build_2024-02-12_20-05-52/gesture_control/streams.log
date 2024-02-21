@@ -1,0 +1,11 @@
+[1.651s] Invoking command in '/home/locobot/ros_ws/src/gesture_control': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed
+[1.851s] running egg_info
+[1.852s] creating ../../build/gesture_control/gesture_control.egg-info
+[1.852s] writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+[1.852s] writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+[1.852s] writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+[1.852s] writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+[1.852s] writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+[1.853s] writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
+[1.881s] error: package directory 'gesture_control' does not exist
+[1.895s] Invoked command in '/home/locobot/ros_ws/src/gesture_control' returned '1': PYTHONPATH=/home/locobot/ros_ws/build/gesture_control/prefix_override:/home/locobot/ros_ws/install/gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/gesture_control build --build-base /home/locobot/ros_ws/build/gesture_control/build install --record /home/locobot/ros_ws/build/gesture_control/install.log --single-version-externally-managed

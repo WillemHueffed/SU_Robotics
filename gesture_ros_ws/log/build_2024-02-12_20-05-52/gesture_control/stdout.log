@@ -1,0 +1,8 @@
+running egg_info
+creating ../../build/gesture_control/gesture_control.egg-info
+writing ../../build/gesture_control/gesture_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/gesture_control/gesture_control.egg-info/dependency_links.txt
+writing entry points to ../../build/gesture_control/gesture_control.egg-info/entry_points.txt
+writing requirements to ../../build/gesture_control/gesture_control.egg-info/requires.txt
+writing top-level names to ../../build/gesture_control/gesture_control.egg-info/top_level.txt
+writing manifest file '../../build/gesture_control/gesture_control.egg-info/SOURCES.txt'
