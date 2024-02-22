@@ -1,0 +1,5 @@
+  File "/home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages/rgbd_camera/depth_node.py", line 30
+    if event == cv2.EVENT_LBUTTONDOWN:
+                                     ^
+SyntaxError: invalid syntax
+

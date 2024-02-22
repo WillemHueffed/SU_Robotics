@@ -1,0 +1,24 @@
+[1.083s] Invoking command in '/home/locobot/SU_Robotics/ros_ws/src/rgbd_camera': PYTHONPATH=/home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/prefix_override:/home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgbd_camera build --build-base /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/build install --record /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/install.log --single-version-externally-managed
+[1.283s] running egg_info
+[1.284s] writing ../../build/rgbd_camera/rgbd_camera.egg-info/PKG-INFO
+[1.284s] writing dependency_links to ../../build/rgbd_camera/rgbd_camera.egg-info/dependency_links.txt
+[1.284s] writing entry points to ../../build/rgbd_camera/rgbd_camera.egg-info/entry_points.txt
+[1.284s] writing requirements to ../../build/rgbd_camera/rgbd_camera.egg-info/requires.txt
+[1.284s] writing top-level names to ../../build/rgbd_camera/rgbd_camera.egg-info/top_level.txt
+[1.313s] reading manifest file '../../build/rgbd_camera/rgbd_camera.egg-info/SOURCES.txt'
+[1.314s] writing manifest file '../../build/rgbd_camera/rgbd_camera.egg-info/SOURCES.txt'
+[1.314s] running build
+[1.314s] running build_py
+[1.314s] copying rgbd_camera/depth_node.py -> /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/build/lib/rgbd_camera
+[1.314s] running install
+[1.315s] running install_lib
+[1.315s] copying /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/build/lib/rgbd_camera/depth_node.py -> /home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages/rgbd_camera
+[1.316s] byte-compiling /home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages/rgbd_camera/depth_node.py to depth_node.cpython-38.pyc
+[1.317s] running install_data
+[1.318s] running install_egg_info
+[1.319s] removing '/home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages/rgbd_camera-0.0.0-py3.8.egg-info' (and everything under it)
+[1.319s] Copying ../../build/rgbd_camera/rgbd_camera.egg-info to /home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages/rgbd_camera-0.0.0-py3.8.egg-info
+[1.320s] running install_scripts
+[1.334s] Installing depth_node script to /home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/rgbd_camera
+[1.334s] writing list of installed files to '/home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/install.log'
+[1.349s] Invoked command in '/home/locobot/SU_Robotics/ros_ws/src/rgbd_camera' returned '0': PYTHONPATH=/home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/prefix_override:/home/locobot/SU_Robotics/ros_ws/install/rgbd_camera/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rgbd_camera build --build-base /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/build install --record /home/locobot/SU_Robotics/ros_ws/build/rgbd_camera/install.log --single-version-externally-managed
